@@ -1,2 +1,2 @@
 # html-css
- Estudos de HTML - CSS  / MÓDULO 1
+ Estudos de HTML5 - CSS3  / MÓDULO 1
